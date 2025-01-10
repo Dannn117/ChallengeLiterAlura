@@ -27,4 +27,4 @@ El proyecto ofrece las siguientes funcionalidades:
 ## Instalación
 Clona este repositorio:
    ```bash
-   git clone <https://github.com/Dannn117/ChallengeLiterAlura.git>
+   https://github.com/Dannn117/ChallengeLiterAlura.git
